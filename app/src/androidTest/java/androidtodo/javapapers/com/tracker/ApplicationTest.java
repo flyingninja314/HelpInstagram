@@ -1,4 +1,4 @@
-package us.theappacademy.helpinstagram;
+package androidtodo.javapapers.com.tracker;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
